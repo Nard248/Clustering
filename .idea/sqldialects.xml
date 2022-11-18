@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="notebook://C:/Users/narek.meloyan/PycharmProjects/Clustering/advance.ipynb" dialect="TSQL" />
     <file url="notebook://C:/Users/narek.meloyan/PycharmProjects/Clustering/script.ipynb" dialect="TSQL" />
+    <file url="PROJECT" dialect="TSQL" />
   </component>
 </project>
